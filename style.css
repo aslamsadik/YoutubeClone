@@ -1,0 +1,264 @@
+*{
+    list-style-type:none;
+   
+   }
+.logo{
+    margin-left: 0px;
+}
+.youtubebutton{
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    
+}
+.imagebutton{
+    width: 40px;
+    height: 40px;
+}
+
+.firstdiv ul{
+    margin-top: -1%;
+    padding-left: 1%;
+}
+.seconddiv ul{
+  padding-left: 1%;
+}
+.thirddiv ul{
+  padding-left: 1%;
+}
+.navbar{
+    padding: 10px 10px 10px 0px;
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu ul{
+    position: relative;
+    right: 510px;
+    display: flex;
+    align-items: center;
+    padding-top: 130px;
+    width: fit-content;
+    height: 0px;
+   
+}
+.menu ul li a {
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    letter-spacing: 2 px;
+}
+.insidemenu{
+    background-color: rgb(113, 107, 107);
+    color: white;
+    margin: 5px 5px 5px 5px;
+}
+.shorts{
+   display: flex;
+   align-items: center;
+   
+}
+.home{
+    display: flex;
+    align-items: center;
+    
+}
+.imageshorts{
+    width: 20px;
+    height: 20px;
+    background-color: aliceblue;
+
+}
+.imagehome{
+    width: 20px;
+    height: 20px;
+    
+   
+}
+.imagesub{
+    width: 20px;
+    height: 20px;
+}
+.subscription{
+    display: flex;
+    align-items: center;
+}
+
+  .emailspace{
+    width: 600px;
+    height: 30px;
+    position: relative;
+    left: 400px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: silver;
+   
+  }
+  .yourchannel{
+    display: flex;
+    align-items: center;
+  }
+  .history{
+    display: flex;
+    align-items: center;
+  }
+  .yourvedios{
+    display: flex;
+    align-items: center;
+  }
+  .watchlater{
+    display: flex;
+    align-items: center;
+  }
+  .download{
+    display: flex;
+    align-items: center;
+  }
+  .liked{
+    display: flex;
+    align-items: center;
+
+  }
+  .imagedownload{
+    width: 20px;
+    height: 20px;
+    
+  }
+
+  .imagechannel{
+    width: 20px;
+    height: 20px;
+    
+  }
+  .historyimage{
+    width: 20px;
+    height: 20px;
+    
+  }
+  .imagevedios{
+    width: 20px;
+    height: 20px;
+   
+  }
+  .imagelater{
+    width: 20px;
+    height: 20px;
+    
+  }
+  .imagelike{
+    width: 20px;
+    height: 20px;
+  
+  }
+  .supsimp{
+    display: flex;
+    align-items: center;
+  }
+  .imagesupsimp{
+    width: 20px;
+    height: 20px;
+  }
+  .hamza{
+    display: flex;
+    align-items: center;
+  }
+  .imagehamza{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+  .history{
+    display: flex;
+    align-items: center;
+  }
+  .imagehistory{
+    width: 20px;
+    height: 20px;
+  }
+  .broto{
+    display: flex;
+    align-items: center;
+  }
+  .imagehanburgur{
+    width: 21px;
+    height: 21px;
+    position: relative;
+    left: -24px;
+    
+  }
+  .imagebroto{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+.content{
+    align-items: center;
+    display: flex;
+    margin-left: 250px;
+    margin-top: -890px;
+}
+.img1{
+    width: 390px;
+    border-radius: 18px;
+    padding-right: 10px;
+}
+
+.content1{
+   margin-top: 100px;
+   margin-left: 250px;
+
+}
+.searchicon{
+    width: 20px;
+    position: absolute;
+    left: 1080px;
+    top: 48px;
+    z-index: 1;
+}
+.mic{
+    position: relative;
+    left: 1000px;
+    width: 30px;
+}
+.vediorec{
+    position: relative;
+    left: 1200px;
+    width: 30px;
+}
+.bell{
+    position: relative;
+    left: 1220px;
+    width: 30px; 
+}
+.a{
+    position: relative;
+    left: 1230px;
+    width: 30px; 
+}
+.you{
+    padding-left: 40px;
+    color: gray;
+   
+}
+.subcriptiondiv{
+    padding-left: 40px;
+    color: grey;
+}
+h3{
+  margin-left: 28px;;
+}
+hr{
+  width: 170px;
+  margin-left: 1%;
+}
+.thumpnail{
+  position: absolute;
+  
+}
+
+
